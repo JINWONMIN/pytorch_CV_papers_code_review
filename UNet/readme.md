@@ -45,3 +45,13 @@
 3. **output(모델의 출력 값)**
 
 ![화면 캡처 2022-04-12 105218](https://user-images.githubusercontent.com/94345086/162863114-99dc40ea-f7b6-42a9-8817-1f6b92b64506.png)
+
+<br>
+<br>
+<br>
+<br>
+
+#### Reference
+
+---
+- <https://www.youtube.com/watch?v=aNAaxy8n-AQ&list=PLqtXapA2WDqbE6ghoiEJIrmEnndQ7ouys&index=2>
